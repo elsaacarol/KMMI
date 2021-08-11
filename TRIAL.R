@@ -1,2 +1,2 @@
 1999 + 85
-teks = "Hello World"
+text = "Hello World"
